@@ -1,5 +1,5 @@
 {
-  "name": "forecast",
+  "name": "node-forecast",
   "version": "1.0.0",
   "description": "A project to create a blackboard app",
   "main": "app.js",
